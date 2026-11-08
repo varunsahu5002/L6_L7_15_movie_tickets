@@ -1,6 +1,8 @@
 # L6_L7_15_movie_tickets — Movie Tickets
 
 Lab 7: Fuzz Testing
+
+
 Report containing screenshots of the code is uploaded on teams
 ## Files
 
